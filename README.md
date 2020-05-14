@@ -1,5 +1,5 @@
 # Weather Server
-This project is just a test I did to lear node.js with express.js, handlebars, routes and some more.
+This project is just a test I did to learn node.js with express.js, handlebars, routes and some more.
 
 #### Developer Info
 Name: Vanderson Assis
